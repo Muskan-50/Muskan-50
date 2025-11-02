@@ -3,10 +3,7 @@
 
 
 
-## Hi there 👋
-
-
-**Muskan-50/Muskan-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I am a passionate full-stack developer
 
 Here are some ideas to get you started:
 
